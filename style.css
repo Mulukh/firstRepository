@@ -1,0 +1,66 @@
+#header{
+  background-position: top center;
+  min-width: 1345px;
+  height: 150px;
+  background-color: #25B33f;
+  background-image: url(images/hat.jpg)
+  
+  }
+#b1 {
+  background-image: url(images/3.png);
+  background-position: center top;
+  background-size: 1380px auto;
+  padding: 15px 85px 16px 85px;
+}
+
+#b2 {
+    padding: 1px;
+    background: rgb(37, 36, 36);
+    background: rgba(51, 48, 48, 0.68);
+}
+body {
+  font-family: "Helvetica", sans-serif
+  font-size: 14px;
+  line-height: 18px;
+  color: #000000;
+  
+} 
+
+h2 {
+  padding-bottom: 12px;
+  text-align: center;
+  
+}
+p3{
+	padding-bottom: -12px;
+    padding-left: 30px;
+	color: #999999;
+}
+
+p {
+	padding-bottom: 1px;
+    padding-left: 30px;
+	}
+p2 {
+	padding-bottom: 1px;
+    padding-left: 1 px;
+	color: red
+	}
+p4 {
+	padding-bottom: 1px;
+    padding-left: 350px;
+	}
+
+.image-center {
+  display:block;
+  margin: auto;
+}
+
+
+
+.site-footer {
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  color: #999999;
+}
