@@ -1,7 +1,7 @@
 #header{
   background-position: top center;
-  min-width: 345px;
-  height: 150px;
+  min-width: 20px;
+  height: 15%;
   background-color: #25B33f;
   background-image: url(images/hat.jpg)
   
@@ -14,7 +14,7 @@
 }
 
 #b2 {
-    background-size: 1380px auto;
+	background-size: 1380px auto;
     padding: 1px;
     background: rgb(37, 36, 36);
     background: rgba(51, 48, 48, 0.68);
