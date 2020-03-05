@@ -50,10 +50,15 @@ p4 {
 	padding-bottom: 1px;
     padding-left: 350px;
 	}
+.adabut { margin:0 25% 0 25%;
+  width:50%;
+}
 
 .image-center {
   display:block;
   margin: auto;
+  width: 80%;
+  height: auto;
 }
 
 
@@ -64,3 +69,33 @@ p4 {
   justify-content: space-between;
   color: #999999;
 }
+.rose { background: #FA8072;
+  width:11%;
+  height:300px; }
+
+.violet {background: #9400D3;
+width:11%;
+  height:300px; }
+
+.blue {background: #00BFFF;
+width:11%;
+  height:300px; }
+
+.green { background: #73A353;
+width:11%;
+  height:300px; }
+
+.yellow {background: #FFFF00;
+width:11%;
+  height:300px; }
+
+.orange { background: #F7941E;width:11%;
+  height:300px;
+  }
+
+.red { background: #C1172C;width:11%;
+  height:300px;
+  }
+    
+.indigo{ background: #008EB0; width:11%;
+height:300px; }
